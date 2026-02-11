@@ -1,0 +1,5 @@
+# Cardiomyocyte Analysis
+
+Image and signal processing for contracting cardiac muscle cells.
+The study of contracting cardiac muscle cells, or cardiomyocytes, is essential for advancing our understanding of cardiac function and disease mechanisms. Cardiomyocytes are specialized cells that form the contractile tissue of the heart, and their behaviour is critical to maintaining healthy cardiac function. This project focuses on the comprehensive analysis of cardiomyocyte contractions using advanced data science methodologies, with the goal of improving the accuracy, reproducibility, and efficiency of such analyses.
+This project presents a robust framework for the analysis of contracting cardiac muscle cells, utilizing state-of-the-art data science techniques and tools. The successful implementation of advanced detection algorithms and comprehensive data analysis protocols has provided valuable insights into cardiomyocyte function, highlighting the potential for further research and clinical applications in cardiology.
